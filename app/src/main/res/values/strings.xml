@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PruebaTG2</string>
+    <string name="txt_title">Clima en Barranquilla</string>
+    <string name="txt_temp">Temperatura:</string>
+    <string name="txt_feels_like">Sensación térmica:</string>
+    <string name="txt_temp_min">Temperatura mínima:</string>
+    <string name="txt_temp_max">Temperatura máxima:</string>
+    <string name="txt_humidity">Humedad:</string>
+    <string name="txt_rest">Leer REST</string>
+    <string name="no_data">Error al obtener información</string>
+    <string name="txt_C">°C</string>
+    <string name="txt_">-</string>
+    <string name="txt_label">REST</string>
+    <string name="no_internet">Error de conexión, revise el estado de su red.</string>
+    <string name="txt_timeout">Tiempo de espera se agotó. Revise su conexión e intente nuevamente.</string>
+</resources>
